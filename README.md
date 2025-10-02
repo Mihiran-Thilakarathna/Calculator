@@ -5,6 +5,11 @@ This project demonstrates GUI development in Java using **IntelliJ IDEA** as the
 
 ---
 
+## 📸 Screenshot
+![Calculator Screenshot](calculator-screenshot.png)
+
+---
+
 ## ✨ Features
 - ➕ Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
 - 🟰 Equals button for quick results
@@ -27,15 +32,9 @@ This project demonstrates GUI development in Java using **IntelliJ IDEA** as the
    ```bash
    git clone https://github.com/Mihiran-Thilakarathna/Calculator.git
    ```
-
 2. Open the project in IntelliJ IDEA.
 3. Navigate to `src/main/java/org/example/Calculator.java`.
-4. Run the `main` method:
-   ```java
-   public static void main(String[] args) {
-       SwingUtilities.invokeLater(Calculator::new);
-   }
-   ```
+4. Run the `main` method.
 
 ---
 
@@ -60,7 +59,9 @@ Calculator/
 
 - **Java 17**
 - **Swing (javax.swing, java.awt)**
-- **Maven** - **IntelliJ IDEA**
+- **Maven**
+- **IntelliJ IDEA**
+
 
 ---
 
